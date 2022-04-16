@@ -36,19 +36,17 @@ To create the machine learning model and analyze the results I followed a multi-
 
     _3-D Scatter Plot_
 
-    ![image](https://user-images.githubusercontent.com/93058069/163680872-4e12180f-1073-4082-a870-542ffc0bc3cc.png)
-    
+   ![image](https://user-images.githubusercontent.com/93058069/163682779-244a33ca-71c4-4a23-8a83-8c98039ba8ef.png)
+ 
    2. Used hvplot to convert the dataframe to a table listing tradable currencies and the class, with other relevant information about the cryptocurrency (see below)
 
   _Snippet of Table with Tradable Cryptocurrency_
   
-  ![image](https://user-images.githubusercontent.com/93058069/163681332-3c299247-38c0-433d-9068-b75a890bc05b.png)
+  ![image](https://user-images.githubusercontent.com/93058069/163682802-7901ae85-27ec-4c7b-9364-ab31e3f46e37.png)
 
    3. Scaled the Total Coin Supply and Total Coins Mined columns and plotted the results on a 2-D scatter plot (see below)
 
   _2-D Scatter Plot_    
   
-  ![image](https://user-images.githubusercontent.com/93058069/163681390-5a320aa9-4efb-40d5-a2aa-f653287a9bb3.png)
-
-
+  ![image](https://user-images.githubusercontent.com/93058069/163682813-ad580f5c-5608-46b5-95de-4e7a0169e0ca.png)
 
